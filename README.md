@@ -1,4 +1,4 @@
-# 02-Haeschenspiel-CDoll
+# 02-Haeschen-CDoll
 Kurzbeschreibung: 4 Spieler. Wenn man die eigene Farbe Würfelt kriegt man einen Punkt, bei Grün kriegt man 2 Punkte und bei schwarz kriegt man einen Punkt abzug. Man spielt bis 10 Punkte
 
 Entwicklungsplattform: MacOS Monterey, Visual Studio 2019, Unity 2020.3.18f1
